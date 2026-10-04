@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "prasath",
+    "password": "$2b$10$BMNTnPX8coPVxrwuKVyTB.cE8ds3WnZdK0tegkcxXYo1l7Tl8ALQS",
+    "name": "Prasath",
+    "email": "prasath@myportal.com",
+    "employeeId": "EMP001",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "location": "Chennai"
+  },
+  {
+    "id": 2,
+    "username": "arun",
+    "password": "$2b$10$/WOlt5K5CzGp./JyOEgswOs73nQESgkR7vWUv/.5PdkVuzujmkVTS",
+    "name": "Arun Kumar",
+    "email": "arun@myportal.com",
+    "employeeId": "EMP002",
+    "designation": "Software Developer",
+    "department": "Engineering",
+    "location": "Bangalore"
+  }
+]

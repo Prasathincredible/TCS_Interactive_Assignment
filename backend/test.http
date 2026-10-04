@@ -1,0 +1,12 @@
+POST http://localhost:5000/api/auth/login
+Content-Type: application/json
+
+{
+    "username":"prasath",
+    "password":"123456"
+}
+
+### Test backend
+
+GET http://localhost:5000/api/auth/me
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VySWQiOjEsInVzZXJuYW1lIjoicHJhc2F0aCIsImlhdCI6MTc5MTA0Mjg3MCwiZXhwIjoxNzkxMDQ2NDcwfQ.8kQOcGgs6A-ewpx_a1ZPXhKXwJScznjqMglzbvxvaIs

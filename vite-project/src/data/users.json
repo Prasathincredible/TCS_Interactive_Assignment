@@ -1,0 +1,24 @@
+[
+  {
+    "id": 1,
+    "username": "prasath",
+    "password": "123456",
+    "name": "Prasath",
+    "email": "prasath@myportal.com",
+    "employeeId": "EMP001",
+    "designation": "Software Engineer",
+    "department": "IT",
+    "location": "Chennai"
+  },
+  {
+    "id": 2,
+    "username": "arun",
+    "password": "password123",
+    "name": "Arun Kumar",
+    "email": "arun@myportal.com",
+    "employeeId": "EMP002",
+    "designation": "Software Developer",
+    "department": "Engineering",
+    "location": "Bangalore"
+  }
+]
